@@ -1,3 +1,4 @@
 # apnacollege-demo
 This is my git repository
-Authoe- Abdul Mannan
+<br>
+Author- Abdul Mannan
